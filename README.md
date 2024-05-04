@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rachel0705
-- 👀 I’m interested in ... Big Data and Data Analysis
+- 👀 I’m interested in ... Big Data and Data Analysis, AI is pretty cool too
 - 🌱 I’m currently finishing my Software Development Engineering Major
 - 💞️ I’m looking to collaborate on ... Any big tech company would be awesome
 - 📫 How to reach me... cvhrem03@gmail.com
