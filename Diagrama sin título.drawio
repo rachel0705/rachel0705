@@ -1,9 +1,155 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.8">
   <diagram name="Página-1" id="UQOlRWPr1Xxgckk8LA1K">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="560" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#666666;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#f5f5f5;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-1">
+          <mxGeometry width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-3" value="Category" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;shadow=0;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-2">
+          <mxGeometry width="260" height="40" as="geometry">
+            <mxRectangle width="260" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-4" value="Description" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-2">
+          <mxGeometry x="260" width="300" height="40" as="geometry">
+            <mxRectangle width="300" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#666666;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#f5f5f5;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-1">
+          <mxGeometry y="40" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-6" value="Flowchart" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-5">
+          <mxGeometry width="260" height="70" as="geometry">
+            <mxRectangle width="260" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-7" value="Represents processes step-by-step using symbols like arrows, ovals, and rectangles. Helps visualize workflows and decisions." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-5">
+          <mxGeometry x="260" width="300" height="70" as="geometry">
+            <mxRectangle width="300" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#666666;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#f5f5f5;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-1">
+          <mxGeometry y="110" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-9" value="Class Diagram" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-8">
+          <mxGeometry width="260" height="70" as="geometry">
+            <mxRectangle width="260" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-10" value="Used in object-oriented design to show classes, attributes, methods, and relationships. Commonly used in software development." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-8">
+          <mxGeometry x="260" width="300" height="70" as="geometry">
+            <mxRectangle width="300" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#666666;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#f5f5f5;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-1">
+          <mxGeometry y="180" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-12" value="Entity-Relationship (ER) Diagram" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-11">
+          <mxGeometry width="260" height="40" as="geometry">
+            <mxRectangle width="260" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-13" value="Illustrates data entities, attributes, and their relationships, primarily used in database design." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-11">
+          <mxGeometry x="260" width="300" height="40" as="geometry">
+            <mxRectangle width="300" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#666666;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#f5f5f5;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-1">
+          <mxGeometry y="220" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-15" value="Use Case Diagram" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-14">
+          <mxGeometry width="260" height="60" as="geometry">
+            <mxRectangle width="260" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-16" value="Describes the interactions between users (actors) and a system to define system functionality." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-14">
+          <mxGeometry x="260" width="300" height="60" as="geometry">
+            <mxRectangle width="300" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#666666;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#f5f5f5;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-1">
+          <mxGeometry y="280" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-18" value="Sequence Diagram" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-17">
+          <mxGeometry width="260" height="60" as="geometry">
+            <mxRectangle width="260" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-19" value="Shows the flow of messages and interactions between objects over time in a system. Useful for modeling processes and workflows." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-17">
+          <mxGeometry x="260" width="300" height="60" as="geometry">
+            <mxRectangle width="300" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#666666;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#f5f5f5;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-1">
+          <mxGeometry y="340" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-21" value="&#xa;State Machine Diagram&#xa;&#xa;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-20">
+          <mxGeometry width="260" height="50" as="geometry">
+            <mxRectangle width="260" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-22" value="Represents the various states an object can be in and the transitions between these states." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-20">
+          <mxGeometry x="260" width="300" height="50" as="geometry">
+            <mxRectangle width="300" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#666666;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#f5f5f5;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-1">
+          <mxGeometry y="390" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-24" value="Activity Diagram" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-23">
+          <mxGeometry width="260" height="60" as="geometry">
+            <mxRectangle width="260" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-25" value="Depicts workflows of business processes or system operations, similar to flowcharts but with more details." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-23">
+          <mxGeometry x="260" width="300" height="60" as="geometry">
+            <mxRectangle width="300" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#666666;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#f5f5f5;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-1">
+          <mxGeometry y="450" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-27" value="Component Diagram" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-26">
+          <mxGeometry width="260" height="60" as="geometry">
+            <mxRectangle width="260" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-28" value="Visualizes the components of a system and their dependencies, useful in system architecture." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-26">
+          <mxGeometry x="260" width="300" height="60" as="geometry">
+            <mxRectangle width="300" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-29" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#666666;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#f5f5f5;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-1">
+          <mxGeometry y="510" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-30" value="Deployment Diagram" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-29">
+          <mxGeometry width="260" height="60" as="geometry">
+            <mxRectangle width="260" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-31" value="Shows the physical deployment of software components across hardware environments (e.g., servers, devices)." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-29">
+          <mxGeometry x="260" width="300" height="60" as="geometry">
+            <mxRectangle width="300" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-32" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#666666;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#f5f5f5;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-1">
+          <mxGeometry y="570" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-33" value="Mind Map" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-32">
+          <mxGeometry width="260" height="40" as="geometry">
+            <mxRectangle width="260" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mWyYVNw0OlHFR2ji4CQ-34" value="Represents hierarchical information, useful for brainstorming and organizing ideas visually." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=#b3b3b3;" vertex="1" parent="5mWyYVNw0OlHFR2ji4CQ-32">
+          <mxGeometry x="260" width="300" height="40" as="geometry">
+            <mxRectangle width="300" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
