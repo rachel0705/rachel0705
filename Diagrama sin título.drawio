@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.8" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.8" pages="4">
   <diagram name="Página-1" id="UQOlRWPr1Xxgckk8LA1K">
     <mxGraphModel dx="1042" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -402,6 +402,107 @@
         </mxCell>
         <mxCell id="1pXFopQXPihKjHNSDO6Q-87" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;V-Model&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="960" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8nfdazTt9WXbGImhQKsm" name="Página-4">
+    <mxGraphModel dx="1389" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="106" y="170" width="616" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-1">
+          <mxGeometry width="616" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-3" value="Model" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-2">
+          <mxGeometry width="126" height="50" as="geometry">
+            <mxRectangle width="126" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-4" value="Advantages" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-2">
+          <mxGeometry x="126" width="260" height="50" as="geometry">
+            <mxRectangle width="260" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-5" value="Disadvantages" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-2">
+          <mxGeometry x="386" width="230" height="50" as="geometry">
+            <mxRectangle width="230" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-1">
+          <mxGeometry y="50" width="616" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-7" value="Cascade" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-6">
+          <mxGeometry width="126" height="140" as="geometry">
+            <mxRectangle width="126" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-8" value="&lt;ul&gt;&lt;li&gt;Easy to understand &lt;/li&gt;&lt;li&gt;Clear structure &lt;/li&gt;&lt;li&gt;Defined milestones &lt;/li&gt;&lt;li&gt;Good for small projects &lt;/li&gt;&lt;li&gt;Easier to track progress &lt;/li&gt;&lt;li&gt;Well-documented process &lt;/li&gt;&lt;li&gt;Less costly for simple projects &lt;/li&gt;&lt;li&gt;Easy to manage&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-6">
+          <mxGeometry x="126" width="260" height="140" as="geometry">
+            <mxRectangle width="260" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-9" value="&lt;ul&gt;&lt;li&gt;Inflexible to changes &lt;/li&gt;&lt;li&gt;Late testing phase &lt;/li&gt;&lt;li&gt;Not suitable for complex projects &lt;/li&gt;&lt;li&gt;High risk of failure &lt;/li&gt;&lt;li&gt;Long delivery time&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-6">
+          <mxGeometry x="386" width="230" height="140" as="geometry">
+            <mxRectangle width="230" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-1">
+          <mxGeometry y="190" width="616" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-11" value="Spiral" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-10">
+          <mxGeometry width="126" height="150" as="geometry">
+            <mxRectangle width="126" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-12" value="&lt;ul&gt;&lt;li&gt;Strong risk management &lt;/li&gt;&lt;li&gt;Flexible to changes &lt;/li&gt;&lt;li&gt;Suitable for large projects &lt;/li&gt;&lt;li&gt;Customer feedback integrated &lt;/li&gt;&lt;li&gt;Early error detection &lt;/li&gt;&lt;li&gt;Scalable &lt;/li&gt;&lt;li&gt;Handles complex requirements &lt;/li&gt;&lt;li&gt;Iterative improvements&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-10">
+          <mxGeometry x="126" width="260" height="150" as="geometry">
+            <mxRectangle width="260" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-13" value="&lt;ul&gt;&lt;li&gt;Costly &lt;/li&gt;&lt;li&gt;Complex management &lt;/li&gt;&lt;li&gt;Time-consuming &lt;/li&gt;&lt;li&gt;Requires expertise &lt;/li&gt;&lt;li&gt;Difficult to document&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-10">
+          <mxGeometry x="386" width="230" height="150" as="geometry">
+            <mxRectangle width="230" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-1">
+          <mxGeometry y="340" width="616" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-15" value="V-Model" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-14">
+          <mxGeometry width="126" height="150" as="geometry">
+            <mxRectangle width="126" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-16" value="&lt;ul&gt;&lt;li&gt;Clear verification &amp;amp; validation &lt;/li&gt;&lt;li&gt;High quality &lt;/li&gt;&lt;li&gt;Testing at each phase &lt;/li&gt;&lt;li&gt;Well-structured &lt;/li&gt;&lt;li&gt;Easier defect tracking &lt;/li&gt;&lt;li&gt;Suitable for critical systems &lt;/li&gt;&lt;li&gt;Reduces time &amp;amp; cost in long term &lt;/li&gt;&lt;li&gt;Defines deliverables clearly&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-14">
+          <mxGeometry x="126" width="260" height="150" as="geometry">
+            <mxRectangle width="260" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-17" value="&lt;ul&gt;&lt;li&gt;Expensive &lt;/li&gt;&lt;li&gt;Not flexible &lt;/li&gt;&lt;li&gt;Requires heavy documentation &lt;/li&gt;&lt;li&gt;High initial planning effort &lt;/li&gt;&lt;li&gt;Slow to adapt to changes&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-14">
+          <mxGeometry x="386" width="230" height="150" as="geometry">
+            <mxRectangle width="230" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-1">
+          <mxGeometry y="490" width="616" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-19" value="Iterative" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-18">
+          <mxGeometry width="126" height="140" as="geometry">
+            <mxRectangle width="126" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-20" value="&lt;ul&gt;&lt;li&gt;Flexible &lt;/li&gt;&lt;li&gt;Early feedback &lt;/li&gt;&lt;li&gt;Lower risk of failure &lt;/li&gt;&lt;li&gt;Continuous improvements &lt;/li&gt;&lt;li&gt;Faster initial delivery &lt;/li&gt;&lt;li&gt;Suitable for complex apps &lt;/li&gt;&lt;li&gt;Allows parallel development &lt;/li&gt;&lt;li&gt;Reduces risk with small iterations&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-18">
+          <mxGeometry x="126" width="260" height="140" as="geometry">
+            <mxRectangle width="260" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0VQilE1K7eGsuZn4-uhM-21" value="&lt;ul&gt;&lt;li&gt;Requires more management&lt;/li&gt;&lt;li&gt;Can be time-consuming &lt;/li&gt;&lt;li&gt;Difficult to estimate costs &lt;/li&gt;&lt;li&gt;Risk of scope creep &lt;/li&gt;&lt;li&gt;Requires constant user involvement&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="0VQilE1K7eGsuZn4-uhM-18">
+          <mxGeometry x="386" width="230" height="140" as="geometry">
+            <mxRectangle width="230" height="140" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
